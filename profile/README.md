@@ -38,9 +38,8 @@ Currently, the Samsung Galaxy A12 Nacho is implemented in UniLoader, a secondary
 #### Currently working on the following for the Galaxy A13:
 
 - [exynos850-mainline](https://github.com/exynos850-mainline/)
-- postmarketOS (downstream as of now, mainline WIP)
+- postmarketOS (mainline WIP)
 - AOSP custom roms.
 
 ---
 
-<sub>7.0.0-rc6 :)</sub>
