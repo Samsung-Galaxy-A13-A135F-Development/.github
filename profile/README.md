@@ -1,4 +1,4 @@
-## AOSP development space for the Galaxy A13
+##  Development space for the Galaxy A13
 
 ### Mainline development is at [exynos850-mainline](https://github.com/exynos850-mainline)
 
